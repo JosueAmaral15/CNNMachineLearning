@@ -1,0 +1,14 @@
+Classification Report:
+----------------------
+                       precision    recall  f1-score   support
+
+     Abnormal(Ulcer)       1.00      0.96      0.98        51
+Normal(Healthy skin)       0.96      1.00      0.98        55
+
+            accuracy                           0.98       106
+           macro avg       0.98      0.98      0.98       106
+        weighted avg       0.98      0.98      0.98       106
+        
+
+image is of class Abnormal(Ulcer) with a probability of  97.50 %
+
