@@ -266,6 +266,6 @@ python3 "algoritmo para reconhecimento de pes diabeticos.py" \
   --output "./output" \
   --img_size 300 \
   --batch_size 32 \
-  --epochs 4
+  --epochs 100
 
 '''
